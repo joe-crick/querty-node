@@ -1,6 +1,6 @@
 {
   "name": "querty-node",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "querty-node - a Node module for the Querty http client",
   "repository": {
     "url": "https://github.com/joe-crick/querty-node"
